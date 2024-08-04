@@ -54,11 +54,8 @@ a {
   background-color: #eee;
 }
 
-.left-links {
-  display: flex;
-  gap: 10px;
-}
-
+/*This could just be placed into ul instead*/
+.left-links,
 .right-links {
   display: flex;
   gap: 10px;
